@@ -1,6 +1,6 @@
 title {
     position: centered;
 }
-fieldset {
-    distinct: block;
+label {
+    display: block;
 }
