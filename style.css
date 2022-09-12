@@ -49,6 +49,11 @@ input, textarea, select {
     vertical-align: middle;
   }
 
+  select {
+    display:list-item;
+    colour: #ffffff;
+}
+
 
 input[type="submit"] {
     text-align: centered;
