@@ -14,6 +14,10 @@ h1, p {
     text-align: center;
   }
 
+  p {
+    display:block;
+  }
+
 form {
     background-color: #11116896; /*This will be the box surrounding all of the questions that will be overlayed on top of the background image*/
     width: 80vw;
