@@ -1,24 +1,20 @@
 h1, h2, p {
     text-align: centered;
     color:#ffffff;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
     background-image: url("https://cdn.pixabay.com/photo/2017/06/10/16/22/coffee-2390136_1280.jpg");
     font-size: 16px;
     color: #000000;
-    width: 100%;
-    height: 100vh;
     margin: 0;
-    color: #f5f6f7;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
-}
+
 
 form {
-    background-color: #0c0c5396;
+    background-color: #11116896;
 }
 
 fieldset {
@@ -51,7 +47,7 @@ select {
 input[type="submit"] {
     text-align: centered;
     display:block;
-    width: 60%;
+    width: 30%;
     margin: 1em auto;
     height: 2em;
     background-color: #aa00ff;
