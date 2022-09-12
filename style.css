@@ -5,3 +5,11 @@ label {
     display: block;
     margin: 0.5rem 0;
 }
+
+.radio {
+    display: block;
+}
+
+select {
+    display:list-item;
+}
