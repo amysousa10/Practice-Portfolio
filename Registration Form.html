@@ -30,13 +30,14 @@
     </select>
   </label>
     <label for="interest-topics">What topics are you interested in? (select all that apply) 
-      <input for id="interest-topics" name="interest-topics" type="checkbox" />Interior design
-      <input for id="interest-topics" name="interest-topics" type="checkbox" />Pets
-      <input for id="interest-topics" name="interest-topics" type="checkbox" />Family
-      <input for id="interest-topics" name="interest-topics" type="checkbox" />Exercise
-      <input for id="interest-topics" name="interest-topics" type="checkbox" />Cooking/Baking
+      <input id="interest-topics" name="interest-topics" type="checkbox" />Interior design
+      <input id="interest-topics" name="interest-topics" type="checkbox" />Pets
+      <input id="interest-topics" name="interest-topics" type="checkbox" />Family
+      <input id="interest-topics" name="interest-topics" type="checkbox" />Exercise
+      <input id="interest-topics" name="interest-topics" type="checkbox" />Cooking/Baking
     </label>
-    <label for="description">Please tell us why you wish to subscribe to our newsletter?<input placeholder="I need more entertainment" for="description" name="description" type"text" minlength="3" maxlength="140" rows="3" cols="30" required /></label>
+    <label for="description">Please tell us why you wish to subscribe to our newsletter?
+      <textarea placeholder="I need more entertainment" id="description" name="description" rows="3" cols="30" required /></textarea>
   </fieldset>
   <input type="submit" value="Submit" />
 </form>
