@@ -11,18 +11,26 @@
   <h1>Registration Form</h1>
   <p>Please answer all of the following questions unless otherwise indicated</p>
   <fieldset>
-    <label for="first-name">Provide your first name: <input id="first-name" name="first-name" type="text" required>
-    </label>
-    <label for="last-name">Provide your last name: <input id="last-name" name="last-name" type="text" required>
-    </label>
-    <label for="email">Email Address: <input id="email" name="email" type="email" required>
-    </label>
-    <label for="age">Age (optional): <input id="age" name="age" type="number" min="13" max="100">
-    </label>
-    <radio for="relationship-status">What is your relationship status? <input id="relationship-status" name="relationship-status" required>
-    </radio>
+    <label for="first-name">Provide your first name: <input id="first-name" name="first-name" type="text" required></label>
+    <label for="last-name">Provide your last name: <input id="last-name" name="last-name" type="text" required></label>
+    <label for="email">Email Address: <input id="email" name="email" type="email" required></label>
+    <label for="age">Age (optional): <input id="age" name="age" type="number" min="13" max="100"></label>
+    <h2>What is your relationship status?</h2>
+    <label for="relationship-status"><input id="relationship-status" name="relationship-status" type="radio">Single</label>
+    <label for="relationship-status"><input id="relationship-status" name="relationship-status" type="radio">Married</label>
+    <label for="relationship-status"><input id="relationship-status" name="relationship-status" type="radio">Common-Law</label>
     <select for="referral">Where did you hear about us? <input placeholder="Please select one of the options below" id="referral" name="referral" type="dropdown" required>
+      <option>Social Media</option>
+      <option>Advertisement</option>
+      <option>Someone told me</option>
+      <option>Other</option>
     </select>
-    </fieldset>
+    <label for="interest-topics">What topics are you interested in? (select all that apply) <input for id="interest-topics" name="interest-topics" type="checkbox"></label>
+    <label for="description">Please tell us why you wish to subscribe to our newsletter?<input for="description" name="description" type"text" minlength="3" maxlength="140" required></label>
+    <submit></submit>
+  </fieldset>
+  <fieldset>
+    <submit></submit>
+  </fieldset>
 </body>
 </html>
