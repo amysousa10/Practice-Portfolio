@@ -12,6 +12,10 @@ label {
     margin: 0.5rem 0;
 }
 
+fieldset {
+    background-color: #1a1a65 transparent: 30%;
+}
+
 input, textarea {
     background-color: #1a1a65;
     border: 1px solid #1a1a65;
