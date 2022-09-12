@@ -10,7 +10,7 @@ body {
 }
 
 form {
-    background-color: #0000ff;
+    background-color: #0c0c5396;
 }
 
 label {
@@ -42,6 +42,6 @@ input[type="submit"] {
     width: 60%;
     margin: 1em auto;
     height: 2em;
-    background-color: #00ff00;
+    background-color: #aa00ff;
     color: #ffffff
 }
