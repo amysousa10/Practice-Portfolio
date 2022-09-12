@@ -14,7 +14,7 @@ p {
     text-align: left;
     color:#ffffff;
   }
-  
+
 body {
     background-image: url("https://cdn.pixabay.com/photo/2017/06/10/16/22/coffee-2390136_1280.jpg");
     font-size: 18px;
@@ -55,6 +55,10 @@ input, textarea, select {
     min-height: 2em;
   }
 
+  .dropdown {
+    width: 20%;
+  }
+  
   .checkbox {
     display: inline-block;
   }
