@@ -4,7 +4,7 @@ title, h1, h2, p {
 
 body {
     background-image: url("https://cdn.pixabay.com/photo/2017/06/10/16/22/coffee-2390136_1280.jpg");
-    font-size: 14px;
+    font-size: 16px;
     color: #ffffff
 }
 label {
@@ -13,11 +13,11 @@ label {
 }
 
 fieldset {
-    background-color: #1a1a65 transparent: 30%;
+    background-color: #1a1a65 transparent 30%;
 }
 
 input, textarea {
-    background-color: #1a1a65;
+    background-color: #ffffff;
     border: 1px solid #1a1a65;
     color: #ffffff;
   }
