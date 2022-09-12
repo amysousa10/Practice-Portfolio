@@ -39,7 +39,6 @@ label {
 input, textarea, select {
     background-color: #ffffff;
     border: 1px solid #000000;
-    color:#000000;
     margin: 10px 0 0 0;
     width: 100%;
     min-height: 2em;
