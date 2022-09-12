@@ -19,18 +19,26 @@
     <label for="relationship-status"><input id="relationship-status" name="relationship-status" type="radio">Single</label>
     <label for="relationship-status"><input id="relationship-status" name="relationship-status" type="radio">Married</label>
     <label for="relationship-status"><input id="relationship-status" name="relationship-status" type="radio">Common-Law</label>
-    <select for="referral">Where did you hear about us? <input placeholder="Please select one of the options below" id="referral" name="referral" type="dropdown" required>
+    <label for="referral">Where did you hear about us? 
+      <select placeholder="Please select one of the options below" id="referral" name="referral" type="dropdown" required>
       <option>Social Media</option>
       <option>Advertisement</option>
       <option>Someone told me</option>
       <option>Other</option>
-    </select>
-    <label for="interest-topics">What topics are you interested in? (select all that apply) <input for id="interest-topics" name="interest-topics" type="checkbox"></label>
+    </select></label>
+    <label for="interest-topics">What topics are you interested in? (select all that apply) 
+      <select for id="interest-topics" name="interest-topics" type="checkbox">
+        <option>Interior Design</option>
+        <option>Pets</option>
+        <option>Family</option>
+        <option>Exercise</option>
+        <option>Cooking/Baking</option>
+      </select></label>
     <label for="description">Please tell us why you wish to subscribe to our newsletter?<input for="description" name="description" type"text" minlength="3" maxlength="140" required></label>
     <submit></submit>
   </fieldset>
   <fieldset>
-    <submit></submit>
+    <submit>Submit</submit>
   </fieldset>
 </body>
 </html>

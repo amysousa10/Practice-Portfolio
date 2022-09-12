@@ -16,3 +16,9 @@ select {
     display:list-item;
     margin: 0.5rem 0;
 }
+
+.submit {
+    text-align: centered;
+    width: auto;
+    background-color: rbg(0, 250, 0)
+}
