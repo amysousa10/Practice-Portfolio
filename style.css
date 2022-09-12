@@ -12,10 +12,11 @@ label {
     margin: 0.5rem 0;
 }
 
-.radio {
-    display: block;
-    margin: 0.5rem 0;
-}
+input, textarea {
+    background-color: #1a1a65;
+    border: 1px solid #1a1a65;
+    color: #ffffff;
+  }
 
 select {
     display:list-item;
