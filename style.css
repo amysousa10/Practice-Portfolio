@@ -7,6 +7,11 @@ body {
     font-size: 16px;
     color: #000000
 }
+
+form {
+    background-color: #0000ff;
+}
+
 label {
     display: block;
     margin: 0.5rem 0;
