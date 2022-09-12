@@ -2,6 +2,11 @@ title, h1, h2, p {
     text-align: centered;
 }
 
+body {
+    background-image: image(href="https://cdn.pixabay.com/photo/2017/06/10/16/22/coffee-2390136_1280.jpg");
+    font-size: 14px;
+    color: #ffffff
+}
 label {
     display: block;
     margin: 0.5rem 0;
@@ -21,5 +26,5 @@ input[type="submit"] {
     text-align: centered;
     display:block;
     width: 60%;
-    background-color: rbg(0, 250, 0)
+    background-color: #00ff00;
 }
