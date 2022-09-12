@@ -17,6 +17,12 @@ h1, p {
 
 form {
     background-color: #11116896;
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    }
 }
 
 fieldset {
