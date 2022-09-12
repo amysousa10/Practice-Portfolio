@@ -5,20 +5,17 @@ title, h1, h2, p {
 body {
     background-image: url("https://cdn.pixabay.com/photo/2017/06/10/16/22/coffee-2390136_1280.jpg");
     font-size: 16px;
-    color: #ffffff
+    color: #000000
 }
 label {
     display: block;
     margin: 0.5rem 0;
 }
 
-form {
-    background-color: #1a1a65 transparent 30%;
-}
 
 input, textarea {
     background-color: #ffffff;
-    border: 1px solid #ffffff;
+    border: 1px solid #000000;
     color: #000000;
   }
 
