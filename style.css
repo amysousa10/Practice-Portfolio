@@ -40,7 +40,8 @@ label {
     display: block;
     margin: 0.5rem 0;
     color: #ffffff; /*this will change the colour for all of the label text on the inside of the form (questions) */
-    padding: 0.5rem;
+    padding-left: 0.5rem 0;
+    padding-right: 0.5rem 0;
 }
 
 input, textarea, select {
