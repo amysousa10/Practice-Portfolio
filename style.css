@@ -18,7 +18,7 @@ h1, p {
 form {
     background-color: #11116896;
     width: 60vw;
-    max-width: 500px;
+    max-width: 700px;
     min-width: 300px;
     margin: 0 auto;
     padding-bottom: 2em;
@@ -48,7 +48,7 @@ input, textarea, select {
     margin: 0 0.5em 0 0;
     vertical-align: middle;
   }
-  
+
 select {
     display:list-item;
     margin: 0.5rem 0;
