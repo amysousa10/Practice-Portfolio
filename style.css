@@ -6,6 +6,8 @@ h1 {
 
 h2 {
     font-size: 14px;
+    color:#ffffff;
+    text-align: centered;
 }
 
 p {
@@ -58,7 +60,7 @@ input, textarea, select {
   .dropdown {
     width: 20%;
   }
-  
+
   .checkbox {
     display: inline-block;
   }
