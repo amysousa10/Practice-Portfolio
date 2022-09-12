@@ -52,7 +52,7 @@ input, textarea, select {
     min-height: 2em;
   }
 
-  .input-checkbox {
+  .checkbox {
     display: inline-block;
   }
 
