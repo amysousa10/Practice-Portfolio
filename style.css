@@ -1,11 +1,10 @@
-title, h1, h2, p {
+h1, h2, p {
     text-align: centered;
     color:#ffffff;
     font-family: Arial, Helvetica, sans-serif;
 }
-title {
+h1 {
     font-size: 24px;
-    textalign: centered;
 }
 
 body {
