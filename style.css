@@ -27,6 +27,9 @@ form {
     padding-bottom: 2em;  /*This determins how much space is available below the form after the submit button for the purple box that encloses everything*/
     }
 
+fieldset {
+    padding:2rem;
+}
 
 fieldset:last-of-type {
     border-bottom: none;
