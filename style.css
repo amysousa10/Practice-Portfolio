@@ -17,8 +17,8 @@ h1, p {
 
 form {
     background-color: #11116896; /*This will be the box surrounding all of the questions that will be overlayed on top of the background image*/
-    width: 60vw;
-    max-width: 900px;
+    width: 80vw;
+    max-width: 700px;
     min-width: 300px;
     margin: 0 auto;
     padding-bottom: 2em;
