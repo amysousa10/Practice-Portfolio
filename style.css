@@ -58,6 +58,7 @@ input, textarea, select {
 
   .topic {
     display: block;
+    text-align:left;
   }
 
   .inline {
