@@ -11,8 +11,9 @@ title {
 body {
     background-image: url("https://cdn.pixabay.com/photo/2017/06/10/16/22/coffee-2390136_1280.jpg");
     font-size: 16px;
-    color: #000000
+    color: #000000;
     width: 100%;
+    box-shadow: inset 100%;
 }
 
 form {
