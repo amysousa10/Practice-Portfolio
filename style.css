@@ -33,13 +33,12 @@ fieldset {
 label {
     display: block;
     margin: 0.5rem 0;
-    color: #ffffff;
+    color: #ffffff; /*this will change the colour for all of the label text on the inside of the form (questions) */
 }
 
 input, textarea, select {
     background-color: #ffffff;
     border: 1px solid #000000;
-    color: #ffffff;
     margin: 10px 0 0 0;
     width: 100%;
     min-height: 2em;
