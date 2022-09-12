@@ -57,8 +57,7 @@ input, textarea, select {
   }
 
   .topic {
-    display: block;
-    text-align:left;
+    display: inline-block;
   }
 
   .inline {
