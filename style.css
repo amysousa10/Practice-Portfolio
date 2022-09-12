@@ -24,6 +24,10 @@ form {
     background-color: #0c0c5396;
 }
 
+fieldset {
+    padding: 2rem 0;
+}
+
 label {
     display: block;
     margin: 0.5rem 0;
