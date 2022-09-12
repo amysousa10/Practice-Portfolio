@@ -7,7 +7,6 @@ body {
     background-image: url("https://cdn.pixabay.com/photo/2017/06/10/16/22/coffee-2390136_1280.jpg");
     font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #ffffff
 }
 
 h1, p {
@@ -21,7 +20,7 @@ form {
     max-width: 700px;
     min-width: 300px;
     margin: 0 auto;
-    padding-bottom: 2em;
+    padding-bottom: 2em;  /*This determins how much space is available below the form after the submit button for the purple box that encloses everything*/
     }
 }
 
@@ -43,7 +42,7 @@ input, textarea, select {
     background-color: #ffffff;
     border: 1px solid #000000;
     margin: 10px 0 0 0;
-    width: 100%;
+    width: 100%;      /*this forces the text boxes area to span the entirety of the form (aside from padding) forcing it below the question*/
     min-height: 2em;
   }
 
