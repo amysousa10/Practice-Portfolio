@@ -25,7 +25,6 @@ body {
 
 form {
     background-color: #11116896; /*This will be the box surrounding all of the questions that will be overlayed on top of the background image*/
-    border-color: #11116896;
     width: 80vw;
     max-width: 700px;
     min-width: 300px;
@@ -35,6 +34,7 @@ form {
 
 fieldset {
     padding:2rem;
+    border-color: #11116896;
 }
 
 fieldset:last-of-type {
