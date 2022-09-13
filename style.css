@@ -47,10 +47,7 @@ fieldset:last-of-type {
 label {
     display: block;
     color: #ffffff; /*this will change the colour for all of the label text on the inside of the form (questions) */
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    margin: 0.5rem;
 }
 
 input, textarea, select {         
