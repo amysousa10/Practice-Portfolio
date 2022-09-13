@@ -64,16 +64,16 @@ input, textarea, select {
     padding-right: 2rem;
   }
 
-  select[type="checkbox"] {
+.checkbox {
     display: inline-block;
     vertical-align: middle;
   }
 
-  .topic {
+.topic {
     display: inline-block;
   }
 
-  label[class="inline"] {
+.inline {
     width: fit-content;
     margin: 0 0.5em 0 0;
     height:12px;
