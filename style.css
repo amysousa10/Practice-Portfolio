@@ -15,6 +15,7 @@ p {
     text-align: left;
     color:#ffffff;
     padding-left: 2rem;
+    margin-top: 50px;
   }
 
 body {
@@ -53,7 +54,6 @@ label {
 input, textarea, select {
     background-color: #ffffff;
     border: 1px solid #000000;
-    margin-bottom: 50px;
     width: 100%;      /*this forces the text boxes area to span the entirety of the form (aside from padding) forcing it below the question*/
     min-height: 2em;
   }
