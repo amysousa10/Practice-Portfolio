@@ -52,7 +52,7 @@ label {
     padding-right: 2rem;
 }
 
-input, textarea {             /*test removing select from here and adding it to line 68 instead*/
+input, textarea, select {         
     background-color: #ffffff;
     border: 1px solid #000000;
     min-height: 2em;
