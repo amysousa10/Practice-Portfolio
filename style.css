@@ -56,10 +56,12 @@ input, textarea, select {
     margin: 10px 0 0 0;
     width: 100%;      /*this forces the text boxes area to span the entirety of the form (aside from padding) forcing it below the question*/
     min-height: 2em;
+    padding-left: 2rem;
+    padding-right: 2rem;
   }
 
   .dropdown {
-    width: 30%;
+    width: 100%;
   }
 
   .checkbox {
@@ -80,6 +82,8 @@ input, textarea, select {
 
   select {
     display:list-item;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 
