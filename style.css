@@ -1,5 +1,5 @@
 h1 {
-    text-align: centered;
+    text-align: center;
     margin: 1em auto;
     color:#ffffff;
 }
@@ -7,7 +7,7 @@ h1 {
 h2 {
     font-size: 14px;
     color:#ffffff;
-    text-align: centered;
+    text-align: center;
 }
 
 p {
