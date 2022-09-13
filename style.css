@@ -86,8 +86,7 @@ input, textarea, select {
 
   select {
     display:list-item;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 0.5rem;
 }
 
 
