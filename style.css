@@ -54,7 +54,6 @@ label {
 input, textarea, select {
     background-color: #ffffff;
     border: 1px solid #000000;
-    width: 100%;      /*this forces the text boxes area to span the entirety of the form (aside from padding) forcing it below the question*/
     min-height: 2em;
   }
 
@@ -64,8 +63,8 @@ input, textarea, select {
     padding-right: 2rem;
   }
 
-  .form-control {
-    width:100%;
+  .form-control, input, textarea {
+    width:100%;           /*this forces the text boxes area to span the entirety of the form (aside from padding) forcing it below the question*/
   }
 
 .checkbox {
