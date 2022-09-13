@@ -71,10 +71,12 @@ input, textarea, select {
     width:100%;           /*this forces the text boxes area to span the entirety of the form (aside from padding) forcing it below the question*/
   }
 
+  /*test removing this entire section
 .checkbox {
     display: inline-block;
     vertical-align: middle;
   }
+    */
 
 .topic {
     display: inline-block;
