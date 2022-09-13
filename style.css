@@ -1,11 +1,15 @@
+head {
+    box-shadow: inset 0px 0px 0px 1000px #11116896;
+}
+
 h1 {
     text-align: center;
-    margin: 1em auto;
+    margin: 0.5em auto;
     color:#ffffff;
 }
 
 h2 {
-    font-size: 14px;
+    font-size: 18px;
     color:#ffffff;
     text-align: center;
 }
