@@ -34,7 +34,7 @@ form {
 
 fieldset {
     padding:2rem;
-    border-color: #11116896;
+    border: none;
 }
 
 fieldset:last-of-type {
