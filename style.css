@@ -88,6 +88,10 @@ input, textarea, select {
     padding-left: 0.5rem;
 }
 
+textarea {
+    margin-top: 1em;
+}
+
 
 input[type="submit"] {
     text-align: centered;
